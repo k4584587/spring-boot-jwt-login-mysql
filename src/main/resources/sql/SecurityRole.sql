@@ -1,0 +1,2 @@
+INSERT INTO nb_roles(name) VALUES('ROLE_USER');
+INSERT INTO nb_roles(name) VALUES('ROLE_ADMIN');
