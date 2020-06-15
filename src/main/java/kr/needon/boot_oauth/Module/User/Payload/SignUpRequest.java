@@ -24,8 +24,4 @@ public class SignUpRequest {
     private String password;
 
     private Set<String> role;
-
-    public Set<String> getRole() {
-        return role;
-    }
 }
